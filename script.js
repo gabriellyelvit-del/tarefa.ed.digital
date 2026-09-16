@@ -1,1 +1,1 @@
-
+const botoesCurtir = document.queryselectorAll  
